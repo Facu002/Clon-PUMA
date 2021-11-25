@@ -180,10 +180,14 @@ body .main-imageProduct .main-product__info article {
   color: #1d1d1d;
   line-height: 1.3rem;
   word-spacing: 2px;
+  color: #0008;
 }
 body .main-imageProduct .main-product__info article ul {
   margin: 1rem 0;
   padding: 0;
+}
+body .main-imageProduct .main-product__info article ul h3 {
+  color: #000;
 }
 body .main-imageProduct .main-product__info article ul li {
   border-top: 1px solid #0006;
@@ -242,7 +246,7 @@ body .buy .buy-btn {
 body .buy .buy-btn:hover, body .buy .buy-btn:active {
   transition: all 0.5s;
   cursor: pointer;
-  background-color: #4bd589;
+  background-color: #76c59e;
 }
 body .main {
   width: 90vw;

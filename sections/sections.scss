@@ -193,9 +193,13 @@ body{
                 color: rgb(29, 29, 29);
                 line-height: 1.3rem;
                 word-spacing: 2px;
+                color: #0008;
                 ul{
                     margin: 1rem 0;
                     padding: 0;
+                    h3{
+                        color: #000;
+                    }
                     li{
                         border-top:1px solid #0006;
                         list-style: none;
@@ -259,7 +263,7 @@ body{
             &:active{
                 transition: all 0.5s;
                 cursor: pointer;
-                background-color: rgb(75, 213, 137);
+                background-color: rgb(118, 197, 158);
             }
         }
     }
