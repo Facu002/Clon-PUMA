@@ -12,14 +12,7 @@ menu.addEventListener('click', ()=>{
     }
 });
 
-// GO TO HOME LOGO
-let homeBtn = document.querySelector('.nav-logo');
-homeBtn.addEventListener('click', ()=>{
-    window.location.href = '../../index.html'
-})
-homeBtn.addEventListener('mouseover', ()=>{
-    homeBtn.style['cursor'] = 'pointer';
-})
+
 
 // SECTION PRODUCT
 
